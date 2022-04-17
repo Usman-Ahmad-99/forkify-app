@@ -1,6 +1,6 @@
 //related to presentation layer
-import icons from '../../img/icons.svg';
 import { Fraction } from 'fractional';
+import icons from '../../img/icons.svg';
 import View from './View';
 
 class RecipeView extends View {
